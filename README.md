@@ -6,7 +6,7 @@
 </div>  
   
 
-### <div align="center">I'm Frank, a full-time Frontend freelance developer 👨‍💻 working remotely since 2020 🚀</div>  
+### <div align="center">I'm Frank, a full-time Frontend freelance developer 👨‍💻 working remotely since 2020 and a Student at ALX SWE 🚀</div>  
   
 
 - 🔭 I’m currently working on [alx-higher_level_programming](https://github.com/Phrank08/alx-higher_level_programming)  
