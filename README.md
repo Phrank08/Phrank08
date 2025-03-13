@@ -6,19 +6,19 @@
 </div>  
   
 
-### <div align="center">I'm Frank, a full-time Frontend freelance developer 👨‍💻 working remotely since 2022 and a Student at ALX SWE 🚀</div>  
+### <div align="center">I'm Frank, a Software Engineer 👨‍💻 and a Technical Writer 🚀</div>  
   
 
-- 🔭 I’m currently working on [alx-higher_level_programming](https://github.com/Phrank08/alx-higher_level_programming)  
+- 🔭 I’m currently working on [AcadEase](https://acadease-portal.vercel.app/)  
   
 
-- 🌱 I’m currently learning Python and JavaScript  
+- 🌱 I’m currently learning Tailwind CSS and JavaScript  
   
 
 - ❓ Ask me about anything related to Python, SQL, and Frontend related technologies  
   
 
-- ⚡ Fun fact: I love coding and solving computational problems 💻😄  
+- ⚡ Fun fact: I enjoy building projects that solve real-world problems and sharing my learnings
   
 
 <br/>  
@@ -78,7 +78,7 @@
 <a href="https://twitter.com/enehfranklyn8" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://medium.com/@frankokey469" target="_blank">
+<a href="https://https://medium.com/@Dev_Frank" target="_blank">
 <img src=https://img.shields.io/badge/medium-%2308090A.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.linkedin.com/in/frank-okey-61a70025a/" target="_blank">
